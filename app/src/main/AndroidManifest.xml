@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asystentmagazyniera_prototyp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".dddd"
+            android:label="@string/title_activity_dddd"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".glowne" />
+        <activity android:name=".sregal222d" />
+        <activity android:name=".sregal221d" />
+        <activity android:name=".sregal220d" />
+        <activity android:name=".sregal219d" />
+        <activity android:name=".sregal218d" />
+        <activity android:name=".sregal217d" />
+        <activity android:name=".sregal216d" />
+        <activity android:name=".sregal215d" />
+        <activity android:name=".sregal214d" />
+        <activity android:name=".sregal213d" />
+        <activity android:name=".sregal222" />
+        <activity android:name=".sregal221" />
+        <activity android:name=".sregal220" />
+        <activity android:name=".sregal219" />
+        <activity android:name=".sregal218" />
+        <activity android:name=".sregal217" />
+        <activity android:name=".sregal216" />
+        <activity android:name=".sregal215" />
+        <activity android:name=".sregal214" />
+        <activity android:name=".sregal213" />
+        <activity android:name=".regal222" />
+        <activity android:name=".regal221" />
+        <activity android:name=".regal220" />
+        <activity android:name=".regal219" />
+        <activity android:name=".regal218" />
+        <activity android:name=".regal217" />
+        <activity android:name=".regal216" />
+        <activity android:name=".regal215" />
+        <activity android:name=".regal214" />
+        <activity android:name=".regal213" />
+        <activity android:name=".Duze" />
+        <activity android:name=".Srednie" />
+        <activity android:name=".Male" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
