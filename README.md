@@ -7,7 +7,7 @@ The task of the mobile application is to provide information about the free spac
 The sizes of the stocked pallets are divided into three types: small, medium and large. 
 Each rack aisle has specifications and an empty space counter assigned to it.
 The application consists of thirty-five activity classes:
-- login windows,
+- login window,
 - main window,
 - three screens with counters,
 - thirty screens with controls.
