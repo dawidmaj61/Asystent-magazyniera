@@ -13,3 +13,25 @@ The application consists of thirty-five activity classes:
 - thirty screens with controls.
 
 ## Interface
+
+<p align="center">
+<img src="app/src/main/res/drawable/loginwindow.png" width="700" height="460" />
+</p>
+
+<p align="center">
+<img src="app/src/main/res/drawable/mainwindow.png" width="700" height="460" />
+</p>
+
+<p align="center">
+<img src="app/src/main/res/drawable/counterwindow.png" width="700" height="460" />
+</p>
+
+<p align="center">
+<img src="app/src/main/res/drawable/controlswindow.png" width="700" height="460" />
+</p>
+
+## Results
+
+<p align="center">
+<img src="app/src/main/res/drawable/test.png" width="250" height="500" />
+</p>
