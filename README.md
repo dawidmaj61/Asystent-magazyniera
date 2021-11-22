@@ -1,4 +1,4 @@
-# Warehouse_assistant
+# WarehouseAssistant
 WarehouseAssistant is a mobile application developed as part of an engineering project. The aim of the engineering project was to create a system for supporting the location of pallet nests using a mobile application. 
 Finished application has the task to minimize duration of the ride from the point of adopted to the destinations. 
 
